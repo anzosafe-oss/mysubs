@@ -1,0 +1,9 @@
+MySubs v13 — actualizare vizuală
+
+1. În GitHub, deschide repository-ul MySubs → Add file → Upload files.
+2. Încarcă fișierele din acest director direct la rădăcină, lângă config.js și supabase-store.js. Confirmă cu Commit changes.
+3. Păstrează fișierele config.js și supabase-store.js existente. Acest pachet nu le înlocuiește și nu modifică baza de date.
+4. După publicarea GitHub Pages, reîncarcă pagina (pe PC: Ctrl+Shift+R).
+5. Pe iPhone, pentru iconița nouă, elimină vechea scurtătură și adaugă din nou pagina din Safari → Share → Add to Home Screen. Abonamentele rămân în Supabase; autentifică-te cu același cont.
+
+Logo-ul din antet urmărește automat tema dispozitivului. Cardurile aplicației rămân albe. Fundalul de la baza ecranului și zona de siguranță iPhone folosesc verdele paginii.

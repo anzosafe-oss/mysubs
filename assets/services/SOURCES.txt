@@ -1,0 +1,9 @@
+Logo-uri SVG: Simple Icons, pachetele npm simple-icons v16 și 14.0.0, distribuite prin jsDelivr.
+https://github.com/simple-icons/simple-icons
+https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/
+https://cdn.jsdelivr.net/npm/simple-icons@14.0.0/icons/
+
+SkyShowtime: favicon de pe site-ul oficial.
+https://www.skyshowtime.com/favicon.ico
+
+Mărcile aparțin titularilor lor. Imaginile identifică serviciile abonamentelor.

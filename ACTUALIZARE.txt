@@ -1,9 +1,7 @@
-MySubs v13 — actualizare vizuală
+MySubs v14 — logo-uri servicii și filtru după bancă
 
-1. În GitHub, deschide repository-ul MySubs → Add file → Upload files.
-2. Încarcă fișierele din acest director direct la rădăcină, lângă config.js și supabase-store.js. Confirmă cu Commit changes.
-3. Păstrează fișierele config.js și supabase-store.js existente. Acest pachet nu le înlocuiește și nu modifică baza de date.
-4. După publicarea GitHub Pages, reîncarcă pagina (pe PC: Ctrl+Shift+R).
-5. Pe iPhone, pentru iconița nouă, elimină vechea scurtătură și adaugă din nou pagina din Safari → Share → Add to Home Screen. Abonamentele rămân în Supabase; autentifică-te cu același cont.
-
-Logo-ul din antet urmărește automat tema dispozitivului. Cardurile aplicației rămân albe. Fundalul de la baza ecranului și zona de siguranță iPhone folosesc verdele paginii.
+Încarcă fișierele acestui director și directorul assets în rădăcina repository-ului GitHub, lângă config.js și supabase-store.js, apoi Commit changes.
+Păstrează config.js și supabase-store.js existente. Nu este necesară nicio modificare SQL și datele din Supabase nu se schimbă.
+Filtrul Bancă se aplică listei abonamentelor și se combină cu starea, moneda și căutarea. Widgeturile și istoricul păstrează totalurile generale. Fără bancă include valorile goale sau NULL.
+Logo-urile sunt identificate automat după nume. Serviciile nerecunoscute păstrează inițialele. Iconițele MySubs sunt cele mărite, fără bordură albă.
+Reîncarcă pagina după publicare; recreează scurtătura Safari pentru actualizarea iconiței.
